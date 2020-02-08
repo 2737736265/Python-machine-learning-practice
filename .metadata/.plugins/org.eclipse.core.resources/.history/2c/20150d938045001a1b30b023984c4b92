@@ -1,0 +1,9 @@
+#-- coding:GBK --
+'''
+Created on 2020Äê2ÔÂ2ÈÕ
+
+@author: Administrator
+'''
+ print(''' fitst
+ second
+ last''')

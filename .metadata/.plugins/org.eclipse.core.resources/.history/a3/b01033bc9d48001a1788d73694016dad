@@ -1,0 +1,20 @@
+#-- coding:UTF-8 --
+'''
+Created on 2020��2��4��
+
+@author: Administrator
+'''
+#猜数字，只允许猜10次
+num = 88
+for i in range(1,10):
+    print("第{0}次猜测ʼ\n".format(i))
+    userGuess = int(input("输入你猜的数字:"))
+    if userGuess == num:
+        print("猜对了")  
+        exit
+    elif userGuess > num:
+        print("猜大了")
+    else:
+        print("猜小了")
+else:
+    print("次数超限")

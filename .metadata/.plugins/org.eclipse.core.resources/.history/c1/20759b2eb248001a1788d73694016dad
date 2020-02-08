@@ -1,0 +1,9 @@
+#-- coding:UTF-8 --
+'''
+Created on 2020��2��6��
+
+@author: Administrator
+'''
+contentstr = "一行内容"
+f = open('textfile.txt')
+f.write("写了一些内容")

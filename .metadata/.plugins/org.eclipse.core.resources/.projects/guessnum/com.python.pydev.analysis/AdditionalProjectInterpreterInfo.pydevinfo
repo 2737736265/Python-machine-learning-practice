@@ -1,0 +1,19 @@
+-- VERSION_5
+-- START DISKCACHE_2
+E:\devsoft\eclipse\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\guessnum\com.python.pydev.analysis\v2_indexcache
+demo_2|1580813541458470000|E:\devsoft\eclipse\workspace\guessnum\demo_2.py
+demo_1|1580813494567761000|E:\devsoft\eclipse\workspace\guessnum\demo_1.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=demo_1
+1=E:\devsoft\eclipse\workspace\guessnum\demo_1.py
+-- END DICTIONARY
+-- START TREE 1
+2
+num|1|num!1^7#1*19@
+use|1|userGuess!1^9#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

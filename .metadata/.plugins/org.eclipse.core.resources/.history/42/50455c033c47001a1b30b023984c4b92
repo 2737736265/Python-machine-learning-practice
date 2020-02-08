@@ -1,0 +1,15 @@
+#--codeing:UTF-8--
+'''
+Created on 2020年2月4日
+
+@author: Administrator
+'''
+num = 88
+print("猜数字游戏开始\n")
+userGuess = int(input("输入你猜的数:"))
+if userGuess == num:
+    print("猜对了！")  
+elif userGuess > num:
+    print("猜大了")
+else:
+    print("done")

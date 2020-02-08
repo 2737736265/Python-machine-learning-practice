@@ -1,0 +1,10 @@
+#-- coding:UTF-8 --
+'''
+Created on 2020��2��2��
+
+@author: Administrator
+'''
+print("哈喽沃德\nzhushoujun")
+
+number_list = [1,2,3,4,45,5,5]
+print(number_list)

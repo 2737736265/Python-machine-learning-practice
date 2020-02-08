@@ -1,0 +1,9 @@
+#--coding:GBK --
+'''
+#coding=utf-8
+Created on 2020��2��2��
+@author: Administrator
+''' 
+import os
+
+print(os.getcwd())

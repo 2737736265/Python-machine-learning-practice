@@ -1,0 +1,15 @@
+#-- coding:UTF-8 --
+'''
+Created on 2020��2��4��
+
+@author: Administrator
+'''
+num = 88
+print("��������Ϸ��ʼ\n")
+userGuess = int(input("������µ���:"))
+if userGuess == num:
+    print("�¶��ˣ�")  
+elif userGuess > num:
+    print("�´���")
+else:
+    print("done")

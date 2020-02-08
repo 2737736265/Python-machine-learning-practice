@@ -1,0 +1,14 @@
+#-- coding:GBK --
+'''
+Created on 2020Äê2ÔÂ2ÈÕ
+
+@author: Administrator
+'''
+print(''' fitst
+ second
+ last''')
+first = "one"
+second = "two"
+age = 3
+# print(("{0}hello world{1}" + str(age)).format(first, second))\
+print(sys.float_info)

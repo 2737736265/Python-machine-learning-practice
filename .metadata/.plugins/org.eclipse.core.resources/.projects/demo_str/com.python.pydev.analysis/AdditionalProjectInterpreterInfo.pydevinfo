@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_2
+E:\devsoft\eclipse\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\demo_str\com.python.pydev.analysis\v2_indexcache
+TestingBuildInPack|1580622750360609000|E:\devsoft\eclipse\workspace\demo_str\TestingBuildInPack.py
+stringTst|1580649406221153000|E:\devsoft\eclipse\workspace\demo_str\stringTst.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=stringTst
+4=TestingBuildInPack
+1=E:\devsoft\eclipse\workspace\demo_str\stringTst.py
+3=E:\devsoft\eclipse\workspace\demo_str\TestingBuildInPack.py
+-- END DICTIONARY
+-- START TREE 1
+4
+ind|1|index!1^24#1*19@
+num|1|number_list!1^11#1*19@
+r|1|r!3^11#1*35@
+tim|1|times!1^28#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

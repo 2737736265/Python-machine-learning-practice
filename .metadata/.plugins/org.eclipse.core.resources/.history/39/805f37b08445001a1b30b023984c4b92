@@ -1,0 +1,22 @@
+#-- coding:GBK --
+'''
+Created on 2020Äê2ÔÂ2ÈÕ
+
+@author: Administrator
+'''
+print(''' fitst
+ second
+ last''')
+first = "one"
+second = "two"
+age = 3
+# print(("{0}hello world{1}" + str(age)).format(first, second))\
+
+a = 12
+b = 11.645
+c = 5.68
+d = 6.00
+
+e = complex(c,d)
+
+print("c type:", type(c))

@@ -1,0 +1,12 @@
+#--coding:GBK --
+'''
+#coding=utf-8
+Created on 2020��2��2��
+@author: Administrator
+''' 
+import os
+from pip._vendor.requests.api import request
+
+print(os.getcwd())
+
+r = request("http://www.baidu.com")

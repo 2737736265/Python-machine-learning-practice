@@ -1,0 +1,20 @@
+#-- coding:UTF-8 --
+'''
+Created on 2020��2��4��
+
+@author: Administrator
+'''
+num = 88
+guess_flag = False
+i = 0
+while guess_flag == False:
+    print("第{0}次猜测ʼ\n".format(i))
+    userGuess = int(input("输入你猜的数字:"))
+    if userGuess == num:
+        print("猜对了")  
+        exit
+    elif userGuess > num:
+        print("猜大了")
+    else:
+        print("猜小了")
+print("次数超限")
